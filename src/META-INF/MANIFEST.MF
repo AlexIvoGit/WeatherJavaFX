@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: sample.Main
+Class-Path: --module-path C:\Users\Goodwin\Documents\javafx-sdk-11.0.2\l
+ ib --add-modules javafx.controls,javafx.fxml
+
